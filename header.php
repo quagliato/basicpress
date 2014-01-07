@@ -28,10 +28,15 @@
         <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery.easing-1.3.min.js"></script>
         <!-- /Third-party libs -->
 
+        <script>
+            var rootURL = "<?=get_bloginfo('url')?>";
+            var templateURL = "<?=get_bloginfo('template_url')?>";
+        </script>
+
         <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_js/js.js"></script>
 
         <!--og tags (fb)-->
-        <meta property="fb:admins" content="792152327" />
+        <meta property="fb:admins" content="792152327" /> <!--Fill with your own FB profile ID-->
         <meta property="og:locale" content="pt_BR" />
         <meta property="og:title" content="<?=get_bloginfo('name')?>" />
         <meta property="og:description" content="<?=get_bloginfo('description')?>" />
