@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt"> <!-- Don't forget changing language! -->
     <head>	
         <link rel="canonical" href="<?=get_bloginfo('url')?>" />
 
@@ -11,7 +11,7 @@
 
         <title><?=get_bloginfo('name')?></title>
 
-        <link rel="shortcut icon" type="image/png" href="<?=get_bloginfo('template_url')?>/images/favicon.ico" />
+        <link rel="shortcut icon" type="image/png" href="<?=get_bloginfo('template_url')?>/_images/favicon.png" />
 
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/reset.css" />
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/fonts.css" />
