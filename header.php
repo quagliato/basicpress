@@ -17,6 +17,7 @@
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/fonts.css" />
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/style.css" />
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/wp-core.css" />
+        <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/jquery-ui/jquery-ui-1.10.3.custom.min.css" />
 
         <!--wp_head-->
         <?php wp_head(); ?>
