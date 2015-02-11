@@ -4,9 +4,11 @@ basicpress is a simple template (more like a file structure) to build new
 WordPress custom templates.
 
 ## What comes imported
-* jquery-2.0.3
-* jquery-ui-1.10.3
+* jquery-2.1.3
+* jquery-ui-1.11.2
 * jquery.easing-1.3
+* jquery.mask
+* font-awesome-4.3.0
 
 ## What functions are built in
 * Administration panel page to use personalized info;

@@ -17,16 +17,18 @@
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/fonts.css" />
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/style.css" />
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_css/wp-core.css" />
-        <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/jquery-ui/jquery-ui-1.10.3.custom.min.css" />
 
         <!--wp_head-->
         <?php wp_head(); ?>
         <!--/wp_head-->
 
         <!-- Third-party libs -->
-        <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery-2.0.3.min.js"></script>
-        <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery-ui/jquery-ui-1.10.3.custom.min.js"></script>
+        <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery-2.1.3.min.js"></script>
         <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery.easing-1.3.min.js"></script>
+        <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery.mask.min.js"></script>
+        <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery-ui-1.11.2/jquery-ui.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/jquery-ui-1.11.2/jquery-ui.min.css" />
+        <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/font-awesome-4.3.0/font-awesome.min.css" />
         <!-- /Third-party libs -->
 
         <script>
