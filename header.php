@@ -3,6 +3,8 @@
     <head>	
         <link rel="canonical" href="<?=get_bloginfo('url')?>" />
 
+        <meta name="viewport" content="width=device-width, user-scalable=no" /> <meta name="viewport" content="width=device-width, user-scalable=no" /> 
+
         <meta charset="UTF-8" />
 
         <meta name="description" content="<?=get_bloginfo('description')?>" />
