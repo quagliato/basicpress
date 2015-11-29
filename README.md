@@ -8,7 +8,7 @@ WordPress custom templates.
 * jquery-ui-1.11.2
 * jquery.easing-1.3
 * jquery.mask
-* font-awesome-4.3.0
+* font-awesome-4.5.0
 
 ## What functions are built in
 * Administration panel page to use personalized info;

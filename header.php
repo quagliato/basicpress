@@ -28,7 +28,7 @@
         <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery.mask.min.js"></script>
         <script type="text/javascript" src="<?=get_bloginfo('template_url')?>/_libs/jquery-ui-1.11.2/jquery-ui.min.js"></script>
         <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/jquery-ui-1.11.2/jquery-ui.min.css" />
-        <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/font-awesome-4.3.0/font-awesome.min.css" />
+        <link rel="stylesheet" type="text/css" href="<?=get_bloginfo('template_url')?>/_libs/font-awesome-4.5.0/font-awesome.min.css" />
         <!-- /Third-party libs -->
 
         <script>
